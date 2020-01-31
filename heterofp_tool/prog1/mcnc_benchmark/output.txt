@@ -1,0 +1,738 @@
+
+size of rec region list: 11
+
+ val1: 0 val2: 0
+ val1: 0 val2: 6
+ value: 1
+ val1: 0 val2: 7
+ value: 1
+ val1: 0 val2: 8
+ value: 1
+ val1: 0 val2: 9
+ value: 1
+ val1: 6 val2: 0
+ value: 1
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ value: 1
+ val1: 6 val2: 8
+ value: 1
+ val1: 6 val2: 9
+ value: 1
+ val1: 7 val2: 0
+ value: 1
+ val1: 7 val2: 6
+ value: 1
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ value: 1
+ val1: 7 val2: 9
+ value: 1
+ val1: 8 val2: 0
+ value: 1
+ val1: 8 val2: 6
+ value: 1
+ val1: 8 val2: 7
+ value: 1
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ value: 1
+ val1: 9 val2: 0
+ value: 1
+ val1: 9 val2: 6
+ value: 1
+ val1: 9 val2: 7
+ value: 1
+ val1: 9 val2: 8
+ value: 1
+ val1: 9 val2: 9
+ val1: 0 val2: 0
+ val1: 0 val2: 6
+ val1: 0 val2: 7
+ val1: 0 val2: 8
+ val1: 0 val2: 9
+ val1: 6 val2: 0
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 6 val2: 9
+ val1: 7 val2: 0
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 8 val2: 0
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 9 val2: 0
+ val1: 9 val2: 6
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 0 val2: 0
+ val1: 0 val2: 6
+ val1: 0 val2: 7
+ val1: 0 val2: 8
+ val1: 0 val2: 9
+ val1: 6 val2: 0
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 6 val2: 9
+ val1: 7 val2: 0
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 8 val2: 0
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 9 val2: 0
+ val1: 9 val2: 6
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 0 val2: 0
+ val1: 0 val2: 6
+ val1: 0 val2: 7
+ val1: 0 val2: 8
+ val1: 0 val2: 9
+ val1: 6 val2: 0
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 6 val2: 9
+ val1: 7 val2: 0
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 8 val2: 0
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 9 val2: 0
+ val1: 9 val2: 6
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ value: 1
+ val1: 0 val2: 3
+ value: 1
+ val1: 0 val2: 4
+ value: 1
+ val1: 0 val2: 6
+ val1: 0 val2: 8
+ val1: 2 val2: 0
+ value: 1
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ value: 1
+ val1: 2 val2: 4
+ value: 1
+ val1: 2 val2: 6
+ value: 1
+ val1: 2 val2: 8
+ value: 1
+ val1: 3 val2: 0
+ value: 1
+ val1: 3 val2: 2
+ value: 1
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ value: 1
+ val1: 3 val2: 6
+ value: 1
+ val1: 3 val2: 8
+ value: 1
+ val1: 4 val2: 0
+ value: 1
+ val1: 4 val2: 2
+ value: 1
+ val1: 4 val2: 3
+ value: 1
+ val1: 4 val2: 4
+ val1: 4 val2: 6
+ value: 1
+ val1: 4 val2: 8
+ value: 1
+ val1: 6 val2: 0
+ val1: 6 val2: 2
+ value: 1
+ val1: 6 val2: 3
+ value: 1
+ val1: 6 val2: 4
+ value: 1
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 0
+ val1: 8 val2: 2
+ value: 1
+ val1: 8 val2: 3
+ value: 1
+ val1: 8 val2: 4
+ value: 1
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 0 val2: 6
+ val1: 0 val2: 8
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 2 val2: 6
+ val1: 2 val2: 8
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 3 val2: 6
+ val1: 3 val2: 8
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 4 val2: 6
+ val1: 4 val2: 8
+ val1: 6 val2: 0
+ val1: 6 val2: 2
+ val1: 6 val2: 3
+ val1: 6 val2: 4
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 0
+ val1: 8 val2: 2
+ val1: 8 val2: 3
+ val1: 8 val2: 4
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 0 val2: 6
+ val1: 0 val2: 8
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 2 val2: 6
+ val1: 2 val2: 8
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 3 val2: 6
+ val1: 3 val2: 8
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 4 val2: 6
+ val1: 4 val2: 8
+ val1: 6 val2: 0
+ val1: 6 val2: 2
+ val1: 6 val2: 3
+ val1: 6 val2: 4
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 0
+ val1: 8 val2: 2
+ val1: 8 val2: 3
+ val1: 8 val2: 4
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 0 val2: 6
+ val1: 0 val2: 8
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 2 val2: 6
+ val1: 2 val2: 8
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 3 val2: 6
+ val1: 3 val2: 8
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 4 val2: 6
+ val1: 4 val2: 8
+ val1: 6 val2: 0
+ val1: 6 val2: 2
+ val1: 6 val2: 3
+ val1: 6 val2: 4
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 0
+ val1: 8 val2: 2
+ val1: 8 val2: 3
+ val1: 8 val2: 4
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 6 val2: 6
+ val1: 6 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 8
+ val1: 0 val2: 0
+ val1: 0 val2: 5
+ value: 1
+ val1: 0 val2: 6
+ val1: 0 val2: 7
+ val1: 0 val2: 8
+ val1: 0 val2: 9
+ val1: 0 val2: 10
+ value: 1
+ val1: 5 val2: 0
+ value: 1
+ val1: 5 val2: 5
+ val1: 5 val2: 6
+ value: 1
+ val1: 5 val2: 7
+ value: 1
+ val1: 5 val2: 8
+ value: 1
+ val1: 5 val2: 9
+ value: 1
+ val1: 5 val2: 10
+ value: 1
+ val1: 6 val2: 0
+ val1: 6 val2: 5
+ value: 1
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 6 val2: 9
+ val1: 6 val2: 10
+ value: 1
+ val1: 7 val2: 0
+ val1: 7 val2: 5
+ value: 1
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 7 val2: 10
+ value: 1
+ val1: 8 val2: 0
+ val1: 8 val2: 5
+ value: 1
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 8 val2: 10
+ value: 1
+ val1: 9 val2: 0
+ val1: 9 val2: 5
+ value: 1
+ val1: 9 val2: 6
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ value: 1
+ val1: 10 val2: 0
+ value: 1
+ val1: 10 val2: 5
+ value: 1
+ val1: 10 val2: 6
+ value: 1
+ val1: 10 val2: 7
+ value: 1
+ val1: 10 val2: 8
+ value: 1
+ val1: 10 val2: 9
+ value: 1
+ val1: 10 val2: 10
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 0 val2: 0
+ val1: 0 val2: 5
+ val1: 0 val2: 6
+ val1: 0 val2: 7
+ val1: 0 val2: 8
+ val1: 0 val2: 9
+ val1: 0 val2: 10
+ val1: 5 val2: 0
+ val1: 5 val2: 5
+ val1: 5 val2: 6
+ val1: 5 val2: 7
+ val1: 5 val2: 8
+ val1: 5 val2: 9
+ val1: 5 val2: 10
+ val1: 6 val2: 0
+ val1: 6 val2: 5
+ val1: 6 val2: 6
+ val1: 6 val2: 7
+ val1: 6 val2: 8
+ val1: 6 val2: 9
+ val1: 6 val2: 10
+ val1: 7 val2: 0
+ val1: 7 val2: 5
+ val1: 7 val2: 6
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 7 val2: 10
+ val1: 8 val2: 0
+ val1: 8 val2: 5
+ val1: 8 val2: 6
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 8 val2: 10
+ val1: 9 val2: 0
+ val1: 9 val2: 5
+ val1: 9 val2: 6
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ val1: 10 val2: 0
+ val1: 10 val2: 5
+ val1: 10 val2: 6
+ val1: 10 val2: 7
+ val1: 10 val2: 8
+ val1: 10 val2: 9
+ val1: 10 val2: 10
+ val1: 1 val2: 1
+ val1: 1 val2: 7
+ value: 1
+ val1: 1 val2: 8
+ value: 1
+ val1: 1 val2: 9
+ value: 1
+ val1: 1 val2: 10
+ value: 1
+ val1: 7 val2: 1
+ value: 1
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 7 val2: 10
+ val1: 8 val2: 1
+ value: 1
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 8 val2: 10
+ val1: 9 val2: 1
+ value: 1
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ val1: 10 val2: 1
+ value: 1
+ val1: 10 val2: 7
+ val1: 10 val2: 8
+ val1: 10 val2: 9
+ val1: 10 val2: 10
+ val1: 1 val2: 1
+ val1: 1 val2: 7
+ val1: 1 val2: 8
+ val1: 1 val2: 9
+ val1: 1 val2: 10
+ val1: 7 val2: 1
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 7 val2: 10
+ val1: 8 val2: 1
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 8 val2: 10
+ val1: 9 val2: 1
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ val1: 10 val2: 1
+ val1: 10 val2: 7
+ val1: 10 val2: 8
+ val1: 10 val2: 9
+ val1: 10 val2: 10
+ val1: 7 val2: 7
+ val1: 7 val2: 8
+ val1: 7 val2: 9
+ val1: 8 val2: 7
+ val1: 8 val2: 8
+ val1: 8 val2: 9
+ val1: 9 val2: 7
+ val1: 9 val2: 8
+ val1: 9 val2: 9
+ val1: 2 val2: 2
+ val1: 2 val2: 8
+ val1: 8 val2: 2
+ val1: 8 val2: 8
+ val1: 2 val2: 2
+ val1: 2 val2: 8
+ val1: 8 val2: 2
+ val1: 8 val2: 8
+ val1: 1 val2: 1
+ val1: 1 val2: 5
+ value: 1
+ val1: 1 val2: 10
+ val1: 5 val2: 1
+ value: 1
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 1
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 1 val2: 1
+ val1: 1 val2: 5
+ val1: 1 val2: 10
+ val1: 5 val2: 1
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 1
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 1 val2: 1
+ val1: 1 val2: 5
+ val1: 1 val2: 10
+ val1: 5 val2: 1
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 1
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 1 val2: 1
+ val1: 1 val2: 5
+ val1: 1 val2: 10
+ val1: 5 val2: 1
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 1
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 7 val2: 7
+ val1: 7 val2: 9
+ val1: 7 val2: 10
+ val1: 9 val2: 7
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ val1: 10 val2: 7
+ val1: 10 val2: 9
+ val1: 10 val2: 10
+ val1: 3 val2: 3
+ val1: 3 val2: 7
+ value: 1
+ val1: 3 val2: 9
+ value: 1
+ val1: 7 val2: 3
+ value: 1
+ val1: 7 val2: 7
+ val1: 7 val2: 9
+ val1: 9 val2: 3
+ value: 1
+ val1: 9 val2: 7
+ val1: 9 val2: 9
+ val1: 3 val2: 3
+ val1: 3 val2: 7
+ val1: 3 val2: 9
+ val1: 7 val2: 3
+ val1: 7 val2: 7
+ val1: 7 val2: 9
+ val1: 9 val2: 3
+ val1: 9 val2: 7
+ val1: 9 val2: 9
+ val1: 5 val2: 5
+ val1: 5 val2: 9
+ val1: 5 val2: 10
+ val1: 9 val2: 5
+ val1: 9 val2: 9
+ val1: 9 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 9
+ val1: 10 val2: 10
+ val1: 4 val2: 4
+ val1: 4 val2: 10
+ value: 1
+ val1: 10 val2: 4
+ value: 1
+ val1: 10 val2: 10
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 5 val2: 5
+ val1: 5 val2: 10
+ val1: 10 val2: 5
+ val1: 10 val2: 10
+ val1: 4 val2: 4
+ val1: 4 val2: 10
+ val1: 10 val2: 4
+ val1: 10 val2: 10
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 0 val2: 0
+ val1: 0 val2: 2
+ val1: 0 val2: 3
+ val1: 0 val2: 4
+ val1: 2 val2: 0
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 0
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 0
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ val1: 2 val2: 2
+ val1: 2 val2: 3
+ val1: 2 val2: 4
+ val1: 3 val2: 2
+ val1: 3 val2: 3
+ val1: 3 val2: 4
+ val1: 4 val2: 2
+ val1: 4 val2: 3
+ val1: 4 val2: 4
+ between 0 and 6: 1

@@ -1,0 +1,15 @@
+### resource file ##################
+num_module 5
+RR1 16 3 0 
+RR2 13 2 3 
+RR3 18 0 0 
+RR4 21 2 1 
+RR5 17 0 0 
+ 
+##### wire connections ################
+x RR1 RR2 RR3 RR4 RR5
+RR1 0 7 6 7 4
+RR2 7 0 5 6 8
+RR3 6 5 0 4 6
+RR4 7 6 4 0 2
+RR5 4 8 6 2 0

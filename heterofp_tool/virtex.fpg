@@ -1,0 +1,12 @@
+row 10
+column 23
+clb_per_tile:=1;
+bram_per_tile:=1;
+dsp_per_tile:=1;
+clb 5
+bram 1
+clb 5 
+dsp 1
+clb 4 
+bram 1
+clb 6

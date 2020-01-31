@@ -1,0 +1,16 @@
+### resource file ##################
+num_module 11
+RR0 386 0 0
+RR1 90 11 11
+RR2 135 2 2
+RR3 135 3 3
+RR4 163 0 0
+RR5 1324 16 16
+RR6 1324 16 16
+RR7 387 3 3
+RR8 1130 6 6
+RR9 387 3 3
+RR10 1130 6 6
+
+##### wire connections ################
+x RR1 RR2 RR3 RR4 RR5 RR6 RR7 RR8 RR9 RR10 RR11 

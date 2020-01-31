@@ -1,0 +1,4 @@
+mod top_1
+clb 900
+bram 7
+dsp 6
